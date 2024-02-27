@@ -100,17 +100,14 @@ body {
     margin: 50px 0px 0px 0px;
     background-color: #1F2937;
 }
+
 .container_4_left {
-    color: white;
-    margin-right: auto;
     padding: 0px 40px 0px 20px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.container_4_right{
-    margin: 0px 15px 0px 0px;
+    color: white;
 }
 
 .container_4_right button{
     width: 200px;
     height: 50px;
+    margin: 0px 15px 0px 0px;
 }
