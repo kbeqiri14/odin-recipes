@@ -1,3 +1,37 @@
 body {
     background-color: antiquewhite;
 }
+#how_to {
+    background-color: rgb(212, 255, 255);
+    width: 500px;
+    text-align: center;
+    padding-bottom: 5px;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px dotted black;
+}
+
+.Steps {
+    background-color: rgb(248, 253, 253);
+    width: 460px;
+    margin-top:-20px;
+    border-bottom: 5px double black;
+    border-left: 5px double black;
+    border-right: 5px double black;
+    padding-top: 5px;   
+}   
+
+.homepage {
+    background-color: rgb(173, 240, 173);
+    width: 460px;
+    padding:10px 10px 10px 10px;
+    border: 2.5px solid black;   
+}
+
+.website {
+    background-color: rgb(173, 240, 173);
+    width: 460px;
+    padding:10px 10px 10px 10px;
+    border: 2.5px solid black;   
+}
